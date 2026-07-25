@@ -6,12 +6,13 @@ Kevin V. Watson
 Working Paper, Version 1.0  
 July 2026
 
-This deposit contains the Version 1.0 working paper and its Markdown source.
+This repository contains the Version 1.0 working paper, its Markdown source, and a concise practical explainer.
 
 ## Files
 
 - `Watson_Artifact-to-Finding_Promotion_Working_Paper_v1.0.pdf` - authoritative formatted working paper
 - `artifact-promotion-working-paper-v1.md` - source text
+- `PRACTICAL_EXPLAINER.md` - accessible explanation and applied examples
 
 ## Citation
 
